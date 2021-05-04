@@ -7,8 +7,6 @@ background-color:grey;
 main {
     width: 960px;
     margin: auto; }
- body{
-    background-color:grey;}
   nav a {
     text-decoration: none;
     display: inline-block;}
@@ -36,3 +34,4 @@ nav li {
  width:300px;
  
 }
+footer{background-color:grey;}
