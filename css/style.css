@@ -7,11 +7,11 @@ background-color:grey;
 main {
     width: 960px;
     margin: auto; }
- body{
-    background-color:grey;}
+
   nav a {
     text-decoration: none;
     display: inline-block;}
+    
     nav ul {
         display:inline;
         list-style-type: none;
@@ -20,10 +20,12 @@ main {
 nav li {
     display: inline;
 
-    margin-right: 40px;}
+    margin-right: 40px;
 
+}
     main img {
         margin-top: 30px;
+      
     }
     main article section {
 
@@ -36,3 +38,4 @@ nav li {
  width:300px;
  
 }
+footer{background-color:grey;}
